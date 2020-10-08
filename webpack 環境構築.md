@@ -1,8 +1,10 @@
 # webpack 開発環境
-## simple
-* loader
+## minimum
+* loader<br>
 babel, sass, css,
-* Server
+* develpment server
+* watch mode
+* source map
 
 
 # 設定ファイル
