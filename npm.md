@@ -1,14 +1,17 @@
 # Terminal
+https://qiita.com/Cesaroshun/items/eaf4b4e3f847062ca308
+
 ```
 ls
 ```
 ```
 cd
 ```
-`cd`のあとに文字を入力して「tab」を入力すると、その後のディレクトリ名を入力してくれる
+* `cd`のあとに文字を入力して「tab」を入力すると、その後のディレクトリ名を入力してくれる
 ```
 mkdir
 ```
+
 # npm
 package.json 作成
 ```
