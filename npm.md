@@ -15,5 +15,7 @@ package.json 作成
 npm init -y
 npm install --save-dev webpack webpack-cli
 npm install --save-dev babel-laoder @babel/core @babel/preset-env
+// sass css style
+npm install --save-dev sass-loader node-sass css-loader style-loader
 ```
 

@@ -1,7 +1,8 @@
-# はじめに
-## ローダー
-* babel-loader
-*
+# webpack 開発環境
+## simple
+* loader
+babel, sass, css,
+* Server
 
 
 # 設定ファイル
@@ -10,6 +11,8 @@
 1. [Chapter2](#Chapter2)
 1. [参考文献](#reference)
 
+# webpack
+## watchモード
 <!-- 各チャプター -->
 <a id="#Chapter1"></a>
 # Chapter1
