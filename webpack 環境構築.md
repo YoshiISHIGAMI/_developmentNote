@@ -1,17 +1,22 @@
 # webpack 開発環境
 ## minimum
 ### webpack.config.js
-* loader<br>
-babel, sass, css,
-* develpment server
-* watch mode
+* loader<br>babel, sass, css,
 * source map
-* multi entry point
-*
+* multiple entry point
+* webpack-dev-server
+* watch mode?<br>localhost たてれればいらなかも
+* 本番と開発をわかえる
 
+# webpack 機能について
+## entry point
 
-# 設定ファイル
-## webpack.config.js
+## watch mode
+watch modeは、ファイルを監視して変更があったら `build` を再実行する機能です。
+`npm run build` を実行後、ファイルの更新が入るたびに `build` 実行してくれる。
+※ localhost たてれればいらなかも…
+
+##
 1. [Chapter1](#Chapter1)
 1. [Chapter2](#Chapter2)
 1. [参考文献](#reference)
