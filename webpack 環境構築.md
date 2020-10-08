@@ -1,10 +1,13 @@
 # webpack 開発環境
 ## minimum
+### webpack.config.js
 * loader<br>
 babel, sass, css,
 * develpment server
 * watch mode
 * source map
+* multi entry point
+*
 
 
 # 設定ファイル
