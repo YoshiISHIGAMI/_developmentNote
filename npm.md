@@ -32,7 +32,7 @@ npm install --save jquery lodash-es
 
 // module:
 // babel-loader
-npm install --save-dev babel-laoder @babel/core @babel/preset-env
+npm install --save-dev babel-loader @babel/core @babel/preset-env
 // sass-loader / css-loader / style-loader
 npm install --save-dev sass-loader node-sass css-loader style-loader
 // url-loader
