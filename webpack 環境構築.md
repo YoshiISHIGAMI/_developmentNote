@@ -7,7 +7,7 @@
 * multiple entry point
 * webpack-dev-server
 <!-- * watch mode?<br>localhost たてれればいらなかも -->
-* 本番と開発をわける（改善の余地あり）
+* webpack.config.js<br>本番と開発をわける（改善の余地あり）
 <!-- * Tree Shaking あまり理解できていない -->
 <!-- *  -->
 <!-- *  -->
