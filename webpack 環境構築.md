@@ -1,6 +1,8 @@
 # webpack
 ## 開発環境
 ### minimum
+課題 webpack.config.js なしでも行けるようにしたい
+we
 #### webpack.config.js
 * loader<br>babel, sass, css,
 * source map
@@ -9,7 +11,7 @@
 <!-- * watch mode?<br>localhost たてれればいらなかも -->
 * webpack.config.js<br>本番と開発をわける（改善の余地あり）
 <!-- * Tree Shaking あまり理解できていない -->
-<!-- *  -->
+* SplitChunksPlugin<br>jQueryなどの共通ライブラリを使用しているときに有効
 <!-- *  -->
 <!-- *  -->
 
@@ -25,6 +27,12 @@
   - 開発用のpubulicにあたるディレクトリが必要？
 * 本番用は公開用のファイルをビルド
   - cosole log 削除
+#### SplitChunksPlugin
+> SplitChunksPluginは「複数のエントリーポイントで利用している共通モジュールをバンドルしたファイル」を出力するプラグインです。
+webpack 4 の optimization.splitChunks の使い方、使い所 〜廃止された CommonsChunkPlugin から移行する〜
+https://qiita.com/soarflat/items/1b5aa7163c087a91877d
+
+
 
 ### 検討・調査中
 #### watch mode

@@ -26,5 +26,8 @@ npm install --save-dev webpack-dev-server
 npm install --save-dev webpack-merge
 // デバッグ用のコードを削除
 npm install --save-dev terser-webpack-plugin
+
+// dependencies
+npm install --save jquery lodash-es
 ```
 
