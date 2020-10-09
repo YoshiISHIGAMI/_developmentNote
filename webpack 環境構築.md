@@ -29,8 +29,8 @@ we
   - cosole log 削除
 #### SplitChunksPlugin
 > SplitChunksPluginは「複数のエントリーポイントで利用している共通モジュールをバンドルしたファイル」を出力するプラグインです。
-webpack 4 の optimization.splitChunks の使い方、使い所 〜廃止された CommonsChunkPlugin から移行する〜
-https://qiita.com/soarflat/items/1b5aa7163c087a91877d
+<!-- webpack 4 の optimization.splitChunks の使い方、使い所 〜廃止された CommonsChunkPlugin から移行する〜
+https://qiita.com/soarflat/items/1b5aa7163c087a91877d -->
 
 
 
