@@ -22,8 +22,9 @@ npm install --save-dev babel-laoder @babel/core @babel/preset-env
 npm install --save-dev sass-loader node-sass css-loader style-loader
 // webpack-dev-server
 npm install --save-dev webpack-dev-server
-
+//
 npm install --save-dev webpack-merge
+// デバッグ用のコードを削除
 npm install --save-dev terser-webpack-plugin
 ```
 
